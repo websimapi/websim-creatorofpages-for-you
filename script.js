@@ -1,4 +1,4 @@
-import { gsap } from "gsap";
+import gsap from "gsap";
 
 const creatorInfoEl = document.getElementById('creator-info');
 const creatorLinkEl = document.getElementById('creator-link');
@@ -111,4 +111,3 @@ async function main() {
 }
 
 main();
-
